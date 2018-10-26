@@ -1,6 +1,12 @@
 body {
+    background-image: url("https://i.imgur.com/JTjy2Of.jpg");
+    background-repeat: no-repeat;
+    background-position: right top;
+    margin-right: 200px;
+    background-attachment: fixed;
     margin: 60px auto;
     width: 70%;
+
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
